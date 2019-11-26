@@ -1,6 +1,7 @@
 # Holiday
 
-Tarkoituksena on toteuttaa lomamatkan suunnittelu/arvostelu sivusto
+Tarkoituksena on toteuttaa lomamatkan suunnittelu/arvostelu sivusto.
+
 Sivustolle voi listata loman yksityiskohtia, kuten lennot, majoituspaikan ja aktiviteetit, myöhemmin voi kommentoida miten matka meni 
 ja antaa arvostelun
 
