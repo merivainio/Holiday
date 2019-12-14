@@ -1,0 +1,30 @@
+{
+  "name": "holiday",
+  "version": "1.0.0",
+  "description": "Tarkoituksena on toteuttaa lomamatkan suunnittelu/arvostelu sivusto.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merivainio/Holiday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merivainio/Holiday/issues"
+  },
+  "homepage": "https://github.com/merivainio/Holiday#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.1.4",
+    "mongodb": "^3.4.0",
+    "mongoose": "^5.8.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
